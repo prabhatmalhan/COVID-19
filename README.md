@@ -6,4 +6,4 @@ This might help people to predict their score and see a doctor as soon as possib
 
 ## STAY HOME, STAY SAFE
 #### Wear a mask and sanitize yourself frequently
-##### See a asap if u have any symtom of the infection
+##### See a doctor as soon as possible if u have any symtom of the infection
