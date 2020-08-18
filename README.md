@@ -4,6 +4,6 @@
 This is my small contribution to the world helping to precict the probability of a person having the infection based upon his preset health.
 This might help people to predict their score and see a doctor as soon as possible if needed
 
-## STAY HOME, STAY SAFE
-#### Wear a mask and sanitize yourself frequently
-##### See a doctor as soon as possible if u have any symtom of the infection
+### STAY HOME, STAY SAFE
+##### Wear a mask and sanitize yourself frequently
+###### See a doctor as soon as possible if u have any symtom of the infection
